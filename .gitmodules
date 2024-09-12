@@ -1,0 +1,3 @@
+[submodule "build/RHVoice"]
+	path = build/RHVoice
+	url = https://github.com/RHVoice/RHVoice
